@@ -1,136 +1,144 @@
-# Hi, I'm Adnan Saqib 👋
+<div align="center">
 
-### Machine Learning Engineer in Progress | Python Developer | AI Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF7A00&height=220&section=header&text=Adnan%20Saqib&fontSize=60&fontColor=FF7A00&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Machine%20Learning%20Engineer&descAlignY=58&descSize=20&descColor=FFFFFF" width="100%"/>
 
-I'm a passionate Machine Learning student from Rawalpindi, Pakistan, currently pursuing **ICS (Statistics)**. I enjoy transforming data into meaningful insights and building intelligent systems that solve real-world problems.
+<a href="https://www.linkedin.com/in/adnan-saqib-ml-engineer">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF7A00" />
+</a>
+<a href="mailto:adnansaqib180@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF7A00" />
+</a>
+<a href="https://github.com/adnansaqib180-bit">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF7A00" />
+</a>
 
-My journey started with Python programming and has evolved into exploring Machine Learning, Data Analysis, Model Development, and AI-driven applications.
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=FF7A00&center=true&vCenter=true&width=650&lines=Machine+Learning+Enthusiast+%F0%9F%A4%96;Scikit-Learn+%7C+Python+%7C+Data+Science;ICS+(Statistics)+Student+%F0%9F%93%9A;Building+AI+Solutions+That+Solve+Real+Problems" alt="Typing SVG" />
+
+</div>
+
+<br/>
 
 ## 🚀 About Me
 
-* 🎓 ICS (Statistics) Student
-* 📍 Rawalpindi, Pakistan
-* 🤖 Focused on Machine Learning and Artificial Intelligence
-* 🐍 Strong foundation in Python and Data Science tools
-* 📊 Interested in predictive modeling and data-driven solutions
-* 🌱 Currently learning advanced Machine Learning concepts and real-world project development
-* 🎯 Goal: Become a Machine Learning Engineer and build AI solutions that solve real-world problems
+- 🎓 **ICS (Statistics)** Student
+- 📍 Based in **Rawalpindi, Pakistan**
+- 🤖 Focused on **Machine Learning** and **Artificial Intelligence**
+- 🐍 Strong foundation in **Python** and Data Science tools
+- 📊 Interested in **predictive modeling** and data-driven solutions
+- 🌱 Currently mastering advanced ML concepts with real-world project development
+- 🎯 **Goal:** Become a Machine Learning Engineer and build AI solutions that solve real-world problems
 
----
+<br/>
+
+## 🧠 Machine Learning Skills
+
+<div align="center">
+
+| Category | Skills |
+|---|---|
+| **Regression** | Linear Regression, Logistic Regression |
+| **Model Selection** | Cross Validation (CV), GridSearchCV, RandomizedSearchCV |
+| **Workflow** | Pipelines, Feature Engineering, Data Preprocessing |
+| **Evaluation** | Model Evaluation Metrics, Classification & Regression Models |
+
+</div>
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-### Programming Language
+<div align="center">
 
-* Python
+**Programming Language**
 
-### Data Analysis & Visualization
+<img src="https://skillicons.dev/icons?i=py&theme=dark" />
 
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
+<br/><br/>
 
-### Machine Learning
+**Data Analysis & Visualization**
 
-* Scikit-Learn
-* Model Evaluation
-* Feature Engineering
-* Data Preprocessing
-* Classification Models
-* Regression Models
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=FF7A00" />
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=FF7A00" />
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=FF7A00" />
+<img src="https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=python&logoColor=FF7A00" />
 
-### Tools & Platforms
+<br/><br/>
 
-* Git
-* GitHub
-* Streamlit
-* Kaggle
-* VS Code
+**Machine Learning**
 
----
+<img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=FF7A00" />
+<img src="https://img.shields.io/badge/Model%20Evaluation-000000?style=for-the-badge&logo=googleanalytics&logoColor=FF7A00" />
+<img src="https://img.shields.io/badge/Feature%20Engineering-000000?style=for-the-badge&logo=databricks&logoColor=FF7A00" />
+<img src="https://img.shields.io/badge/Data%20Preprocessing-000000?style=for-the-badge&logo=dataspell&logoColor=FF7A00" />
+<img src="https://img.shields.io/badge/Classification-000000?style=for-the-badge&logo=OpenAI&logoColor=FF7A00" />
+<img src="https://img.shields.io/badge/Regression-000000?style=for-the-badge&logo=chartdotjs&logoColor=FF7A00" />
 
-## 📚 Currently Learning
+<br/><br/>
 
-* Machine Learning Algorithms
-* Feature Engineering
-* Model Optimization
-* Hyperparameter Tuning
-* Ensemble Learning
-* Real-World ML Workflows
-* Model Deployment with Streamlit
+**Tools & Platforms**
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF7A00" />
+<img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=FF7A00" />
 
-## 🔥 Featured Projects
+</div>
 
-### 📈 Customer Churn Prediction
+<br/>
 
-Built a machine learning model to predict customer churn using data preprocessing, feature engineering, model training, and evaluation techniques.
+## 📊 GitHub Stats
 
-### 🏦 Loan Approval Prediction
+<div align="center">
 
-Developed a predictive system that determines loan approval eligibility based on applicant information and financial factors.
+<img src="https://github-readme-stats.vercel.app/api?username=adnansaqib180-bit&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF7A00&icon_color=FF7A00&text_color=FFFFFF" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adnansaqib180-bit&theme=dark&hide_border=true&background=0D1117&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00" width="48%"/>
 
-### 💼 Salary Prediction
+<br/>
 
-Created a regression model capable of estimating salaries using relevant features and performance evaluation metrics.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnansaqib180-bit&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF7A00&text_color=FFFFFF" width="50%"/>
 
-### 🏥 Healthcare Prediction Project
+</div>
 
-Worked on healthcare-related machine learning analysis and predictive modeling using real-world style datasets on Kaggle.
+<br/>
 
----
+## 🎯 Areas of Interest
 
-## 📊 Areas of Interest
+<div align="center">
 
-* Machine Learning
-* Artificial Intelligence
-* Data Science
-* Predictive Analytics
-* Model Deployment
-* Open Source Learning
+<img src="https://img.shields.io/badge/Machine%20Learning-FF7A00?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-FF7A00?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Data%20Science-FF7A00?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Predictive%20Analytics-FF7A00?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Model%20Deployment-FF7A00?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/Open%20Source%20Learning-FF7A00?style=for-the-badge&labelColor=000000" />
 
----
+</div>
+
+<br/>
 
 ## 🌐 Connect With Me
 
-### LinkedIn
+<div align="center">
 
-[www.linkedin.com/in/adnan-saqib-ml-engineer](http://www.linkedin.com/in/adnan-saqib-ml-engineer)
+<a href="https://www.linkedin.com/in/adnan-saqib-ml-engineer">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF7A00" />
+</a>
+<a href="mailto:adnansaqib180@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF7A00" />
+</a>
+<a href="https://github.com/adnansaqib180-bit">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF7A00" />
+</a>
 
-### GitHub
+</div>
 
-https://github.com/adnansaqib180-bit
+<br/>
 
-### Email
+<div align="center">
 
-[adnansaqib180@gmail.com](mailto:adnansaqib180@gmail.com)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A00,100:000000&height=120&section=footer"/>
 
----
+**"Turning data into decisions, one model at a time."** 🤖📈
 
-## 💡 Philosophy
-
-> "Every expert was once a beginner. I believe in learning by building, experimenting, and continuously improving through real-world projects."
-
----
-
-⭐ I am always exploring new technologies, improving my skills, and working on projects that help me grow as a future Machine Learning Engineer.
-
-
-<!--
-**adnansaqib180-bit/adnansaqib180-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
