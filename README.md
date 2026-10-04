@@ -27,7 +27,8 @@
 - 🤖 Focused on **Machine Learning** and **Artificial Intelligence**
 - 🐍 Strong foundation in **Python** and Data Science tools
 - 📊 Interested in **predictive modeling** and data-driven solutions
-- 🌱 Currently mastering advanced ML concepts with real-world project development
+- 🧩 Completed **Deep Learning** fundamentals — ANNs, CNNs, and RNNs
+- 🌱 Currently learning **Transformer Architecture**
 - 🎯 **Goal:** Become a Machine Learning Engineer and build AI solutions that solve real-world problems
 
 <br/>
@@ -42,6 +43,7 @@
 | **Model Selection** | Cross Validation (CV), GridSearchCV, RandomizedSearchCV |
 | **Workflow** | Pipelines, Feature Engineering, Data Preprocessing |
 | **Evaluation** | Model Evaluation Metrics, Classification & Regression Models |
+| **Deep Learning** | ANN, CNN, RNN &nbsp;·&nbsp; 🌱 *Currently learning: Transformer Architecture* |
 
 </div>
 
@@ -83,7 +85,75 @@
 <img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF7A00" />
 <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=FF7A00" />
 
+<br/><br/>
+
+**Deep Learning**
+
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF7A00" />
+<img src="https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=FF7A00" />
+<img src="https://img.shields.io/badge/ANN-000000?style=for-the-badge&logo=brain&logoColor=FF7A00" />
+<img src="https://img.shields.io/badge/CNN-000000?style=for-the-badge&logo=googlelens&logoColor=FF7A00" />
+<img src="https://img.shields.io/badge/RNN-000000?style=for-the-badge&logo=octopusdeploy&logoColor=FF7A00" />
+<img src="https://img.shields.io/badge/Transformers%20(Learning)-1a1a1a?style=for-the-badge&logo=huggingface&logoColor=FF7A00" />
+
+<br/><br/>
+
+**Deployment & Backend**
+
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=FF7A00" />
+<img src="https://img.shields.io/badge/Pydantic-000000?style=for-the-badge&logo=pydantic&logoColor=FF7A00" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FF7A00" />
+<img src="https://img.shields.io/badge/Uvicorn-000000?style=for-the-badge&logo=gunicorn&logoColor=FF7A00" />
+<img src="https://img.shields.io/badge/posgre SQL -000000?style=for-the-badge&logo=gunicorn&logoColor=FF7A00" />
 </div>
+
+<br/>
+
+## 💼 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧑‍🤝‍🧑 Multi-Task Facial Intelligence
+
+Age & gender estimation, emotion classification, and real-vs-AI-generated image detection — all served through one FastAPI backend with an interactive web UI.
+
+**Stack:** `Python` `TensorFlow/Keras` `FastAPI`
+
+[🔗 Repo](https://github.com/adnansaqib180-bit/Multi-Task-Facial-Intelligence)
+
+</td>
+<td width="33%" valign="top">
+
+### 📉 Churn Intelligence
+
+End-to-end customer churn prediction comparing a tuned Scikit-Learn pipeline against a Keras ANN, wrapped in a dark/orange Streamlit dashboard and a FastAPI backend. Docker-ready.
+
+**Stack:** `Python` `Scikit-Learn` `Keras` `FastAPI` `Streamlit` `Docker` `cloud(railway) deployment`
+
+[🔗 Repo](https://github.com/adnansaqib180-bit/costumer-churn-prediction)
+
+</td>
+<td width="33%" valign="top">
+
+### 🛡️ Fraud Detection System
+
+Production-style fraud detection pipeline — SMOTE vs class-weighting for imbalance, Pydantic-validated FastAPI service, a Streamlit UI, and a database-backed retraining loop. Fully Dockerized.
+
+**Stack:** `Python` `Scikit-Learn` `FastAPI` `Pydantic` `Streamlit` `Docker` `posgre SQL`
+
+[🔗 Repo](https://github.com/adnansaqib180-bit/fraud-detection-system)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+> ⭐ **Note:** Repo links above are my best guess from your project names — double-check they match your actual GitHub repo URLs and update if needed.
 
 <br/>
 
@@ -130,6 +200,16 @@
 <a href="https://github.com/adnansaqib180-bit">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF7A00" />
 </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A00,100:000000&height=120&section=footer"/>
+
+**"Turning data into decisions, one model at a time."** 🤖📈
 
 </div>
 
