@@ -153,7 +153,7 @@ Production-style fraud detection pipeline — SMOTE vs class-weighting for imbal
 
 </div>
 
-> ⭐ **Note:** Repo links above are my best guess from your project names — double-check they match your actual GitHub repo URLs and update if needed.
+> ⭐ **Note:** Repo links above are my best.
 
 <br/>
 
@@ -211,13 +211,6 @@ Production-style fraud detection pipeline — SMOTE vs class-weighting for imbal
 
 **"Turning data into decisions, one model at a time."** 🤖📈
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF7A00,100:000000&height=120&section=footer"/>
 
 **"Turning data into decisions, one model at a time."** 🤖📈
 
